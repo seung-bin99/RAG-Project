@@ -41,11 +41,11 @@ Retriever, 프롬프트, 모델 및 출력 파서를 연결하여 최종 RAG 체
 https://brave-martin-endlessly.ngrok-free.app/chat/playground/
 
 # 참고 자료
-- https://introduce-ai.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-BGE-M3-Embedding-Multi-Lingual-Multi-Functionality-Multi-Granularity-Text-Embeddings-Through-Self-Knowledge-Distillation
+1. [**BGE-M3 임베딩 모델 논문 리뷰**](https://introduce-ai.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-BGE-M3-Embedding-Multi-Lingual-Multi-Functionality-Multi-Granularity-Text-Embeddings-Through-Self-Knowledge-Distillation)
 
 ### 사용 모델
-> [**야놀자 EEZE모델**](https://huggingface.co/heegyu/EEVE-Korean-Instruct-10.8B-v1.0-GGUF)
-> [**llama3-ko-instruct 모델**](https://huggingface.co/teddylee777/Llama-3-Open-Ko-8B-Instruct-preview-gguf)
+> 1. [**야놀자 EEZE모델**](https://huggingface.co/heegyu/EEVE-Korean-Instruct-10.8B-v1.0-GGUF)
+> 2. [**llama3-ko-instruct 모델**](https://huggingface.co/teddylee777/Llama-3-Open-Ko-8B-Instruct-preview-gguf)
 
 ### 버전
 1. `LangChain version: 0.2.12`
