@@ -30,7 +30,7 @@ Retriever, 프롬프트, 모델 및 출력 파서를 연결하여 최종 RAG 체
 ![서버 코드](https://github.com/user-attachments/assets/72d77932-712b-4b11-8ce9-e6b7d1fc33fa)
 
 
-### 반려동물 챗봇 구현
+### RAG 기반 반려동물 챗봇 구현
 ![챗 체인](https://github.com/user-attachments/assets/437b8a8f-f9ba-4009-b28d-2f3726e82a6c)
 
 ### 모델 선정 이유
