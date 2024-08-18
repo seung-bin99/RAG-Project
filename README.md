@@ -39,7 +39,7 @@
 - 한국어 답변 우수했던 야놀자 EEZE 모델 선정
 
 ### 챗봇 URL(채팅챗)
-https://brave-martin-endlessly.ngrok-free.app/chat/playground/
+[**펫 케어 봇**](https://brave-martin-endlessly.ngrok-free.app/chat/playground/)
 
 # 참고 자료
 1. [**BGE-M3 임베딩 모델 논문 리뷰**](https://introduce-ai.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-BGE-M3-Embedding-Multi-Lingual-Multi-Functionality-Multi-Granularity-Text-Embeddings-Through-Self-Knowledge-Distillation)
