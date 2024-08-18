@@ -1,4 +1,4 @@
-# law chat bot
+# pet chat bot
 
 ## Installation
 
