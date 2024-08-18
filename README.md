@@ -4,7 +4,7 @@
 
 ### Process
 #### chat.py
-- Ollama 라이브러리를 이용해서 EEVE모델 가져옴
+- Ollama 라이브러리를 이용해서 등록한 EEVE모델 가져옴
 - 한국어 문장 임베딩을 위한 jhgan/ko-sroberta-multitask 모델을 설정
 - PDF 파일의 텍스트를 PyPDFLoader로 추출해 청크로 분할
 - 추출한 내용을 langchain을 이용해서 임베딩하여 벡터화한 다음 FAISS 벡터 저장소에 저장
