@@ -3,15 +3,15 @@
 
 ### Process
 #### chat.py
-Ollama 라이브러리를 이용해서 EEVE모델 가져옴
-한국어 문장 임베딩을 위한 jhgan/ko-sroberta-multitask 모델을 설정
-PDF 파일의 텍스트를 PyPDFLoader로 추출해 청크로 분할
-추출한 내용을 langchain을 이용해서 임베딩하여 벡터화한 다음 FAISS 벡터 저장소에 저장
-벡터 저장소 로드
-유사도 높은 문서를 추출하기 위해 retriever 설정
-챗봇의 응답을 정의하기 위한 프롬프트 설정
-문서 내용을 포맷팅하여 문자열 변환 함수 정의
-Retriever, 프롬프트, 모델 및 출력 파서를 연결하여 최종 RAG 체인 생성
+- Ollama 라이브러리를 이용해서 EEVE모델 가져옴
+- 한국어 문장 임베딩을 위한 jhgan/ko-sroberta-multitask 모델을 설정
+- PDF 파일의 텍스트를 PyPDFLoader로 추출해 청크로 분할
+- 추출한 내용을 langchain을 이용해서 임베딩하여 벡터화한 다음 FAISS 벡터 저장소에 저장
+- 벡터 저장소 로드
+- 유사도 높은 문서를 추출하기 위해 retriever 설정
+- 챗봇의 응답을 정의하기 위한 프롬프트 설정
+- 문서 내용을 포맷팅하여 문자열 변환 함수 정의
+- Retriever, 프롬프트, 모델 및 출력 파서를 연결하여 최종 RAG 체인 생성
 
 #### server.py
 - FastAPI를 사용하여 웹 애플리케이션을 구성하고 CORS 설정을 통해 다양한 출처에서의 요청을 허용
