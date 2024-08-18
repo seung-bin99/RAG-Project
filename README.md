@@ -1,6 +1,6 @@
 # RAG-Project
 ## RAG 기술 기반 pdf 내용을 검색, 질의응답(QA) 구현하는 챗봇
-### 반려동물 관련 pdf 문서를 통한 RAG 챗봇
+### 반려동물 관련 pdf 문서 기반 RAG 챗봇
 
 ### Process
 #### chat.py
@@ -32,7 +32,7 @@
 
 
 ### RAG 기반 반려동물 챗봇 구현
-![챗 체인](https://github.com/user-attachments/assets/437b8a8f-f9ba-4009-b28d-2f3726e82a6c)
+![챗 체인](https://github.com/user-attachments/assets/17d52ef1-d9c1-4726-89df-e6c574def4a1)
 
 ### 모델 선정
 - 모델 크기와 사용자 Local 환경 고려해 llama3-ko와 EEVE 모델 중 한국어 답변 우수했던 야놀자 EEVE LLM 모델 선정
