@@ -21,8 +21,8 @@
 - LangServe와 연동 : 챗봇의 기능을 API 엔드포인트로 노출하고, 피드백 기능과 공개 트레이스 링크 활성화
 - 서버 실행 : FastAPI 서버를 실행하여 클라이언트의 요청을 처리
 
-#### 외부 앱 배포
-- Ngrok를 활용해 배포
+#### 서버 배포
+- Ngrok를 활용해 배포함으로써 외부 접근 허용
 
 ### Ollama 모델 등록
 ![ollama 모델 등록](https://github.com/user-attachments/assets/9a36450e-05e9-4243-8527-5efbdfc298eb)
